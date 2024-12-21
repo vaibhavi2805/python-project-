@@ -1,5 +1,5 @@
 # python-project- 
-# Student Performance Analyzer without OOP
+# Student Performance Analyzer 
 
 # Function to calculate total and average marks
 def calculate_total_and_average(marks):
